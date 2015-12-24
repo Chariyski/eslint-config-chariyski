@@ -1,0 +1,15 @@
+# --------------------
+# Sublime Text Files
+# --------------------
+*.sublime-project
+*.sublime-workspace
+
+# --------------------
+# IntelliJ Files
+# --------------------
+.idea/
+
+# --------------------
+# App Files
+# --------------------
+node_modules/

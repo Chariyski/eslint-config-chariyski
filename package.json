@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-chariyski",
+  "description": "A set of eslint configuration",
+  "keywords": [
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "eslint-config",
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "style checker",
+    "style linter"
+  ],
+  "version": "0.1.2",
+  "author": "Krasimir Chariyski <kr.chariyski@gmail.com>",
+  "homepage": "https://github.com/Chariyski/eslint-config-chariyski",
+  "bugs": {
+    "url": "https://github.com/Chariyski/eslint-config-chariyski/issues"
+  },
+  "repository": "git://github.com/Chariyski/eslint-config-chariyski.git",
+  "private": false,
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "main": "./configurations/eslint.js",
+  "engines": {
+    "node": ">= 4.2.3"
+  },
+  "license": "MIT"
+}
