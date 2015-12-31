@@ -16,7 +16,7 @@ module.exports = {
     // Enforce boolean attributes notation in JSX
     "react/jsx-boolean-value": 2,
     // Validate closing bracket location in JSX
-    "react/jsx-closing-bracket-location": [2, 'tag-aligned'],
+    "react/jsx-closing-bracket-location": [2, "after-props"],
     // Enforce or disallow spaces inside of curly braces in JSX attributes
     "react/jsx-curly-spacing": 0,
     // Validate props indentation in JSX
