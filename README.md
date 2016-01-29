@@ -17,7 +17,7 @@
 Install this config package and ESLint:
 
 ```bash
-$ npm install --save-dev eslint eslint-config-defaults
+$ npm install --save-dev eslint eslint-config-chariyski
 ```
 
 ## Usage
