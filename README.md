@@ -48,7 +48,7 @@ more details about how shareable configs work, see the
 ```yaml
 ---
 "extends":
-  - "defaults/configurations/es6-browser"
+  - "chariyski/configurations/es6-browser"
 ```
 
 **NOTE:** Extending multiple complete configs can cause unexpected results, if you need to do this you should consider a [piecemeal config](http://eslint.org/docs/user-guide/configuring.html#extending-configuration-files).
