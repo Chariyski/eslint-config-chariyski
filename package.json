@@ -13,7 +13,7 @@
     "style checker",
     "style linter"
   ],
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "Krasimir Chariyski <kr.chariyski@gmail.com>",
   "homepage": "https://github.com/Chariyski/eslint-config-chariyski",
   "bugs": {
