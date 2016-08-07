@@ -4,7 +4,6 @@ module.exports = {
   "extends": [
     "chariyski/rules/eslint/best-practices/index",
     "chariyski/rules/eslint/errors/index",
-    "chariyski/rules/eslint/es6/index",
     "chariyski/rules/eslint/legacy/index",
     "chariyski/rules/eslint/node/index",
     "chariyski/rules/eslint/strict/index",

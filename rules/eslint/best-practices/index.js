@@ -17,7 +17,7 @@ module.exports = {
     // encourages use of dot notation whenever possible
     "dot-notation": [2, { "allowKeywords": true }],
     // enforces consistent newlines before or after dots
-    "dot-location": 2,
+    "dot-location": [2, "property"],
     // require the use of === and !==
     "eqeqeq": 2,
     // make sure for-in loops have an if statement
@@ -30,8 +30,6 @@ module.exports = {
     "no-div-regex": 0,
     // disallow else after a return in an if
     "no-else-return": 0,
-    // disallow use of labels for anything other then loops and switches
-    "no-empty-label": 2,
     // disallow comparisons to null without a type-checking operator
     "no-eq-null": 2,
     // disallow use of eval()
@@ -65,7 +63,7 @@ module.exports = {
     // disallow reassignments of native objects
     "no-native-reassign": 2,
     // disallow use of new operator when not part of the assignment or comparison
-    "no-new": 2,
+    "no-new": 0,
     // disallow use of new operator for Function object
     "no-new-func": 2,
     // disallows creating new instances of String,Number, and Boolean
